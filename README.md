@@ -6,3 +6,5 @@ This is the repository for the alpha-blog app of the Complete Ruby On Rails Deve
 * ...
 
 12/18/21 finally getting back into this
+
+01/08/22 updated files
